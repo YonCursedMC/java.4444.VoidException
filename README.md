@@ -1,4 +1,4 @@
-# java.4444.VoidException
+# Minecraft java.4444.VoidException
 ## ストーリー
 別の世界線でMinecraft 1.2.5を開発しているとき、冗談でへロブラインの亜種、「HeroVoid」を追加しようとした、<br>
 しかし、そのmobを追加して実行した瞬間、「java.4444.VoidException」というエラーが出て、開発していたPCが突如起動しなくなってしまった。<br>
@@ -40,8 +40,8 @@ At that moment, the developer who was test playing the game got four e*** and hi
 https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu
 
 1. クライアントのzipファイルをダウンロードします。<br>
-https://github.com/Yon4800/Minecraft_Beta_1.8.1_Pre-Release_4/releases<br>
-こちらの一番上の```b1.8.1_pre4.zip```<br>
+https://github.com/Yon4800/java.4444.VoidException/releases/tag/java.4444.VoidException_v0.1<br>
+こちらの一番上の```java.4444.VoidException.zip```<br>
 
 2. MultiMC<br>
 https://multimc.org/#Download<br>
@@ -62,8 +62,8 @@ Required: Java8 (zulu recommended)<br>
 https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu
 
 1. Download the client zip file.<br>
-https://github.com/Yon4800/Minecraft_Beta_1.8.1_Pre-Release_4/releases<br>
-The top one here is ``b1.8.1_pre4.zip```<br>
+https://github.com/Yon4800/java.4444.VoidException/releases/tag/java.4444.VoidException_v0.1<br>
+The top one here is ``java.4444.VoidException.zip```<br>
 
 2. Install MultiMC<br>
 https://multimc.org/#Download<br>
