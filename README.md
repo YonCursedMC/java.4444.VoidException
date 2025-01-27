@@ -81,7 +81,7 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 クレジット
 ### テクスチャ製作者
 - TestAlpha様
-### 画像生成
+### 画像生成、画像
 - Google ImageFX様<br>
 https://labs.google/fx/ja/tools/image-fx<br>
 - NovaSkin様<br>
