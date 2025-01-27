@@ -1,4 +1,6 @@
 # Minecraft java.4444.VoidException
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Yon4800/java.4444.VoidException/total?style=for-the-badge">
+
 ## ストーリー
 別の世界線でMinecraft 1.2.5を開発しているとき、冗談でへロブラインの亜種、「HeroVoid」を追加しようとした、<br>
 しかし、そのmobを追加して実行した瞬間、「java.4444.VoidException」というエラーが出て、開発していたPCが突如起動しなくなってしまった。<br>
