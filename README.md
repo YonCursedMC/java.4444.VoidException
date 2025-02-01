@@ -26,6 +26,7 @@ At that moment, the developer who was test playing the game got four e*** and hi
 - MCPのライセンスによりコードは公開しません。
 - 点滅やドッキリ要素、ホラー音が多いです。やる際は十分注意してください。
 - かなり重いです。やる際はそれなりのCPUやビデオカードを搭載したPCをご用意ください。
+- 実況などで使う場合は、このバージョンのURLのクレジット表記をしてくれると嬉しいです。
 
 ## Caution
 - This version was not actually released by Mojang, nor is it officially certified.
@@ -34,6 +35,7 @@ At that moment, the developer who was test playing the game got four e*** and hi
 - Due to the MCP license, the code will not be released.
 - There are many flashing, surprising elements, and horror sounds. Please be careful when playing.
 - It is quite heavy. Please prepare a PC with a decent CPU and video card when playing.
+- If you use this in a live commentary, etc., I would appreciate it if you could credit this version's URL.
 
 ## 動かし方
 ### クライアント
